@@ -15,3 +15,5 @@ There is an additional function, that uses the color of the channel 1 one to hav
 One issue about the project is that, initially, there were a metronome that triggers each notes. So when the balloon is immobile, there will be attacks on the note at each time the metronome sends a bang, which lacks continuity. To improve that, instead of a metronome, it is finally a change of MIDI number that triggers a note being played. As long as it is the same number, the note would be continuous. However, since the determination of the position of the ball is color sensitive, it happens that the signal is unstable even though the balloon seems not moved, which results a tremolo effect. 
 
 I feel like I could keep implementing this final project after taking MUMT307 and MUMT501. With more DSP background, I think I could overcome struggles in controlling the dynamic of the sound. I hope I would be able to build up a good orchestra conducting simulator.
+
+Here is a link for the project's demo: https://youtu.be/X-Lyw33R4Mg
