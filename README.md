@@ -1,5 +1,7 @@
 # MUMT306
 
+![caption](video-1575434546.mp4)
+
 My objective was initially to build up a orchestral conducting simulator. I would like to make a gestural control device that could control the speed and the dynamic of a sound file. The gesture would resemble a conventional conducting pattern. The sound file could be a piece an extra of a symphonic work. However, it is difficult to find a way to achieve this objective with limited knowledge and skills. Therefore, I have decided to work on something else. I have thought of the sonification of an image. I started looking at jitter object in Max/MSP. While I am learning how jitter objects work, I found out that jitter objects are good for video processing. I finally decided to combine both ideas I have together, to use camera as a video source to build a gestural controller, which is the final version of my final project.
 
 The project consists of two main parts: video part and audio part.
